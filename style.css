@@ -5,6 +5,9 @@
     color: whitesmoke;
     font-family:cursive;
 }
+body{
+    margin:2vw;
+}
 .header{
    font-size: 2rem;
    background: black;
